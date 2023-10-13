@@ -2,14 +2,6 @@
 #include<stdlib.h>
 
 
-
-int main(){
-#include<stdio.h>
-#include<stdlib.h>
-
-
-
-
 void main(){
         int **A ;
         int n;
